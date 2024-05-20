@@ -17,6 +17,4 @@ Computer Networking Google Certification
 Technical Support Fundamentals Google Certification
 [(https://coursera.org/verify/PXA7TWSSR8CJ)]
 -
-VentusPerpetua/VentusPerpetua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
