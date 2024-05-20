@@ -5,6 +5,10 @@
 - 📫 You can reach me at Ignisanctus777@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a First Degree Black Belt and have been using coputers since I was four years old. I am 39 years of age now.
+- Current Certifications listed in lines 9,10, and 11.
+- SQL Essentials LinkedIn Learning Certification.
+- Technical Support Fundementals Google Certification.
+- Computer Networking Google Certification.
 
 <!---
 VentusPerpetua/VentusPerpetua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
