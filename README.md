@@ -12,7 +12,7 @@
 -
 -7 ⚡ Fun fact: I am a First Degree Black Belt and have been using coputers since I was four years old. I am 39 years of age now.
 -
--8 Current Certifications listed in lines 10. 14, and 17.
+-8 Current Certifications listed in lines 10. 12, and 14.
 -
 -9 Certification Vericiation URL listed on following respective lines.
 -
