@@ -1,4 +1,4 @@
--1 👋 Hi, I’m @VentusPerpetua
+-1 👋 Hi, I’m Michael Hughes
 -
 -2 👀 I’m interested in Computer Programming, Data Analytics, SQL, All things IT, and keeping up with the latest Tech innovations and updates.
 -
