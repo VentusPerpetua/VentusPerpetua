@@ -8,9 +8,9 @@
 -8 Current Certifications listed in lines 10, 12, and 14.
 -9 Certification Vericiation URL listed on following respective lines.
 -10 SQL Essentials LinkedIn Learning Certification.
--11[(https://www.linkedin.com/learning/certificates/5dadf830d081e4bb1a058d036d650405ce5fcdda121fe9fa418c6c5b57edd527)]
+-11[(https://www.linkedin.com/learning/certificates/5dadf830d081e4bb1a058d036d650405ce5fcdda121fe9fa418c6c5b57edd527)]-
 -12 Computer Networking Google Certification
--13[(https://coursera.org/verify/WFKZ9CGXPBXX)]
+-13[(https://coursera.org/verify/WFKZ9CGXPBXX)]-
 -14Technical Support Fundamentals Google Certification
--15[(https://coursera.org/verify/PXA7TWSSR8CJ)]
+-15[(https://coursera.org/verify/PXA7TWSSR8CJ)]-
 --->
