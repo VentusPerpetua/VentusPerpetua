@@ -1,20 +1,16 @@
-- 👋 Hi, I’m @VentusPerpetua
-- 👀 I’m interested in Computer Programming, Data Analytics, SQL, All things IT, and keeping up with the latest Tech innovations and updates.
-- 🌱 I’m currently learning to obtain my IT Support Specialist Certification and beginning to code.
-- 💞️ I’m looking to collaborate on Lua programming language projects associated with Roblox.
-- 📫 You can reach me at Ignisanctus777@gmail.com
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am a First Degree Black Belt and have been using coputers since I was four years old. I am 39 years of age now.
-- Current Certifications listed in lines 11, 14, and 17.
-- Certification Vericiation URL listed on following respective lines.
-- 
-- SQL Essentials LinkedIn Learning Certification.
-[(https://www.linkedin.com/learning/certificates/5dadf830d081e4bb1a058d036d650405ce5fcdda121fe9fa418c6c5b57edd527)]
--
-Computer Networking Google Certification
-[(https://coursera.org/verify/WFKZ9CGXPBXX)]
--
-Technical Support Fundamentals Google Certification
-[(https://coursera.org/verify/PXA7TWSSR8CJ)]
--
+-1 👋 Hi, I’m @VentusPerpetua
+-2 👀 I’m interested in Computer Programming, Data Analytics, SQL, All things IT, and keeping up with the latest Tech innovations and updates.
+-3 🌱 I’m currently learning to obtain my IT Support Specialist Certification and beginning to code.
+-4 💞️ I’m looking to collaborate on Lua programming language projects associated with Roblox.
+-5 📫 You can reach me at Ignisanctus777@gmail.com
+-6 😄 Pronouns: He/Him/His
+-7 ⚡ Fun fact: I am a First Degree Black Belt and have been using coputers since I was four years old. I am 39 years of age now.
+-8 Current Certifications listed in lines 10, 12, and 14.
+-9 Certification Vericiation URL listed on following respective lines.
+-10 SQL Essentials LinkedIn Learning Certification.
+-11[(https://www.linkedin.com/learning/certificates/5dadf830d081e4bb1a058d036d650405ce5fcdda121fe9fa418c6c5b57edd527)]
+-12 Computer Networking Google Certification
+-13[(https://coursera.org/verify/WFKZ9CGXPBXX)]
+-14Technical Support Fundamentals Google Certification
+-15[(https://coursera.org/verify/PXA7TWSSR8CJ)]
 --->
