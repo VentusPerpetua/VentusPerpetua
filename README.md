@@ -25,6 +25,6 @@ We will soon be changing our name back to the original family name of O'Corcoran
 [(https://coursera.org/verify/WFKZ9CGXPBXX)]
 -
 -13 Technical Support Fundamentals Google Certification
-[(https://coursera.org/verify/PXA7TWSSR8CJ)]-
+[(https://coursera.org/verify/PXA7TWSSR8CJ)]
 -
 --->
