@@ -10,19 +10,21 @@
 -
 -6 😊 Pronouns: He/Him/His
 -
--7 ⚡ Fun fact: I am a First Degree Black Belt and have been using coputers since I was four years old. I am 39 years of age now.
+-7 I am married to my wife, Kayla Hughes
+We will soon be changing our name back to the original family name of O'Corcoran.
 -
--8 Current Certifications listed in lines 10. 12, and 14.
+-8 ⚡ Fun fact: I am a First Degree Black Belt and have been using coputers since I was four years old. I am 39 years of age now.
 -
--9 Certification Vericiation URL listed on following respective lines.
+-9 Current Certifications listed in lines 10. 12, and 14.
 -
--10 SQL Essentials LinkedIn Learning Certification.
--11[(https://www.linkedin.com/learning/certificates/5dadf830d081e4bb1a058d036d650405ce5fcdda121fe9fa418c6c5b57edd527)]
+-10 Certification Vericiation URL listed on following respective lines.
+-
+-10 SQL Essentials LinkedIn Learning Certification. [(https://www.linkedin.com/learning/certificates/5dadf830d081e4bb1a058d036d650405ce5fcdda121fe9fa418c6c5b57edd527)]
 -
 -12 Computer Networking Google Certification
--13[(https://coursera.org/verify/WFKZ9CGXPBXX)]
+[(https://coursera.org/verify/WFKZ9CGXPBXX)]
 -
--14Technical Support Fundamentals Google Certification
--15[(https://coursera.org/verify/PXA7TWSSR8CJ)]-
+-14 Technical Support Fundamentals Google Certification
+[(https://coursera.org/verify/PXA7TWSSR8CJ)]-
 -
 --->
