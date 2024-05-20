@@ -1,11 +1,19 @@
 -1 👋 Hi, I’m @VentusPerpetua
+-
 -2 👀 I’m interested in Computer Programming, Data Analytics, SQL, All things IT, and keeping up with the latest Tech innovations and updates.
+-
 -3 🌱 I’m currently learning to obtain my IT Support Specialist Certification and beginning to code.
+-
 -4 💞️ I’m looking to collaborate on Lua programming language projects associated with Roblox.
+-
 -5 📫 You can reach me at Ignisanctus777@gmail.com
--6 😄 Pronouns: He/Him/His
+-
+-6 😊 Pronouns: He/Him/His
+-
 -7 ⚡ Fun fact: I am a First Degree Black Belt and have been using coputers since I was four years old. I am 39 years of age now.
+-
 -8 Current Certifications listed in lines 10. 14, and 17.
+-
 -9 Certification Vericiation URL listed on following respective lines.
 -
 -10 SQL Essentials LinkedIn Learning Certification.
