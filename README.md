@@ -10,7 +10,7 @@
 -
 -6 😊 Pronouns: He/Him/His
 -
--7 I am married to my wife, Kayla Hughes
+-7 I am married to my wife, Kayla Hughes.
 We will soon be changing our name back to the original family name of O'Corcoran.
 -
 -8 ⚡ Fun fact: I am a First Degree Black Belt and have been using coputers since I was four years old. I am 39 years of age now.
