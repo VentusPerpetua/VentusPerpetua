@@ -31,7 +31,7 @@ We will soon be changing our name back to the original family name of O'Corcoran
 -15 Technical Support Fundamentals Google Certification
 [(https://coursera.org/verify/PXA7TWSSR8CJ)]
 -
--16 Microsoft 365 For IT Pros
+-16 Introduction To Microsoft 365 For IT Pros
 [(https://www.linkedin.com/learning/certificates/48e51893217da6f78636f3ace3f65352e230c9894736ee86d934dfb1bad411f0)]
 -
 --->
