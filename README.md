@@ -19,7 +19,7 @@ We will soon be changing our name back to the original family name of O'Corcoran
 -
 -10 ⚡ Fun fact: I am a First Degree Black Belt and have been using coputers since I was four years old. I am 39 years of age now.
 -
--11 Current Certifications listed in lines 13. 14, 15, and 16.
+-11 Current Certifications listed in lines 13. 14, 15, 16 and 17.
 -
 -12 Certification Vericiation URL listed on following respective lines.
 -
@@ -34,4 +34,6 @@ We will soon be changing our name back to the original family name of O'Corcoran
 -16 Introduction To Microsoft 365 For IT Pros
 [(https://www.linkedin.com/learning/certificates/48e51893217da6f78636f3ace3f65352e230c9894736ee86d934dfb1bad411f0)]
 -
+-17 Microsoft Word Essentials for Mac
+[(https://www.linkedin.com/learning/certificates/81a1c8e1ddec1e99843e724043be358d33384b3050f24149ca692cb0a361b26f)]
 --->
