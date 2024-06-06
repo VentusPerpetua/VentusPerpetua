@@ -36,4 +36,7 @@ We will soon be changing our name back to the original family name of O'Corcoran
 -
 -17 Word For Mac Essentials Training (Microsoft 365)
 [(https://www.linkedin.com/learning/certificates/81a1c8e1ddec1e99843e724043be358d33384b3050f24149ca692cb0a361b26f)]
+-
+18 Operating Systems, Becoming a Power User Google Certification
+[(https://www.coursera.org/account/accomplishments/verify/WFKZ9CGXPBXX)]
 --->
