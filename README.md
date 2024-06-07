@@ -19,7 +19,7 @@ We will soon be changing our name back to the original family name of O'Corcoran
 -
 -10 ⚡ Fun fact: I am a First Degree Black Belt and have been using coputers since I was four years old. I am 39 years of age now.
 -
--11 Current Certifications listed in lines 13. 14, 15, 16 and 17.
+-11 Current Certifications listed in lines 13. 14, 15, 16, 17, 18, and 19.
 -
 -12 Certification Vericiation URL listed on following respective lines.
 -
@@ -39,4 +39,7 @@ We will soon be changing our name back to the original family name of O'Corcoran
 -
 18 Operating Systems, Becoming a Power User Google Certification
 [(https://www.coursera.org/account/accomplishments/verify/WFKZ9CGXPBXX)]
+-
+19 Microsft Excel Essentials LinkedIn Learning Certification
+[(https://www.linkedin.com/learning/certificates/02af0c72e70e3ada30cee6993ce58fbe9e856f41ec49ebba33895b052c31c92e)]
 --->
